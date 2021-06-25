@@ -56,4 +56,5 @@ I want to continue on completing the other projects so i can practice what i hav
 
 - Linkedin - [Abdulaziz Ba Haj](https://www.linkedin.com/in/abdulaziz-bahaj?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFwF85v7zQTKFiGjzb6Hl4A%3D%3D)
 - Frontend Mentor - [@AbdulazizBaHaj](https://www.frontendmentor.io/profile/AbdulazizBaHaj)
+- FreeCodeCamp - [@abdulazizbahaj](https://www.freecodecamp.org/abdulazizbahaj)
 - Twitter - [@AbdulazizBaHaj_](https://twitter.com/AbdulazizBaHaj_)
